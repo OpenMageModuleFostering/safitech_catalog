@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package>
+    <name>Safitech_Catalog</name>
+    <version>0.7.1</version>
+    <stability>stable</stability>
+    <license uri="http://opensource.org/licenses/osl-3.0.php">Open Software License (OSL 3.0)</license>
+    <channel>community</channel>
+    <extends/>
+    <summary>This extension replaces the image gallery with the jqueryZoom widget</summary>
+    <description>With this extension, the regular image gallery of Magento will be replaced by the jqueryZoom widget. This enables customers to hover over product images and bring up a zoom view, instead of using controls.
+To Configure this you can navigate to "System &gt; Configuration &gt; Catalog &gt; Product Gallery "jqZoom"</description>
+    <notes>Tested in Firefox and IE8 only.</notes>
+    <authors><author><name>mohammed</name><user>auto-converted</user><email>mohammed@safitech.com</email></author></authors>
+    <date>2009-08-06</date>
+    <time>05:07:15</time>
+    <contents><target name="mageskin"><dir name="frontend"><dir name="default"><dir name="default"><dir name="css"><file name="jqzoom.css" hash="7bf8311982937c794118383a6b6fd889"/></dir><dir name="js"><file name="effects.core.js" hash="4e501b24f8dcfcd67c173c2e5121041b"/><file name="effects.scale.js" hash="75b3f24764e4384b9bebd0735ef33b14"/><file name="jquery-1.3.2.min.js" hash="bb381e2d19d8eace86b34d20759491a5"/><file name="jquery.jqzoom.js" hash="af069a484c6f2452aba4dbd710ba17a3"/></dir></dir></dir></dir></target><target name="mageetc"><dir name="modules"><file name="Safitech_Catalog.xml" hash="7d3727558010a786cd2b564415262c04"/></dir></target><target name="magecommunity"><dir name="Safitech"><dir name="Catalog"><dir name="etc"><file name="config.xml" hash="6466d4750747f07100cf991a5f3335cf"/><file name="system.xml" hash="e2a5a2f66a9e1fec072f1a7e55f2f41c"/></dir><dir name="Helper"><file name="Data.php" hash="51bdffc09ad9310773de57f7019114e7"/></dir></dir></dir></target><target name="magedesign"><dir name="frontend"><dir name="default"><dir name="default"><dir name="layout"><file name="safitech_jqzoom.xml" hash="0dbb57b724930cf2456c7d010ce7bc1a"/></dir><dir name="template"><dir name="safitech"><dir name="catalog"><dir name="product"><dir name="view"><file name="media.phtml" hash="665e7b1ba01dc0207d97449b729893ca"/></dir></dir></dir></dir></dir></dir></dir></dir></target></contents>
+    <compatible/>
+    <dependencies/>
+</package>

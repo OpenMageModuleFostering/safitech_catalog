@@ -1,7 +1,7 @@
 {
-    "name": "OpenMageModuleFostering\/Safitech_Catalog",
+    "name": "openmage-module-fostering\/safitech_catalog",
     "type": "magento-module",
-    "license": "Open-Software-License-(OSL-3.0)",
+    "license": "OSL-3.0",
     "homepage": "",
     "description": "This extension replaces the image gallery with the jqueryZoom widget",
     "authors": [

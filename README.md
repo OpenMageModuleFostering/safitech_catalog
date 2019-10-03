@@ -1,3 +1,5 @@
+
+
 ## Original Package Description
 
 This extension replaces the image gallery with the jqueryZoom widget
